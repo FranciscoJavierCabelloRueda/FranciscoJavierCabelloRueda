@@ -5,7 +5,7 @@
     <img
       src="https://render.gitanimals.org/lines/FranciscoJavierCabelloRueda"
       width="250"
-      height="120"
+      height="119"
     />
   </a>
 </p>
